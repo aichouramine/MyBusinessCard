@@ -3,7 +3,7 @@
 My Professional Business  Card
 
 ## Demo
-[Lunch demo](amineaichour.netlify.com)
+[Lunch demo](http://amineaichour.netlify.com)
 
 ## License
 This code is released under the [MIT] license
